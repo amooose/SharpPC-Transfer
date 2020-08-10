@@ -1,5 +1,5 @@
 # SharpPC-Transfer
-A simple program that transfers programs over to the Sharp Pocket PC series over serial.
+A simple program that transfers text file programs over to the Sharp Pocket PC series over serial.
 
 Devices supported such as:  
 PC-1600  
