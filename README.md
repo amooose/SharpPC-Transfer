@@ -14,5 +14,5 @@ For help on creating a cable to use for transfer, read http://www.silicium.org/f
 For the cable, I use a DSD TECH SH-U09C2 USB to TTL Adapter (Firmware must be reprogrammed, but that is explained on the forum post)
 
 # Usage:
-Launching the program will bring you to a list of ports to choose from, select one and then select your file.
+Launching the program will bring you to a list of ports to choose from, select one and then select your file.  
 You may drag and drop the file you want to transfer onto the script (or pass as an argument) if you do not want to browse for a file.
